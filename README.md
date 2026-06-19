@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎓 Education Management System - Setup & Installation Guide
 
 This guide describes how to configure, set up, and run the Education Management System.
@@ -153,5 +152,3 @@ To push this project to a remote Git repository (such as GitHub, GitLab, or Bitb
    git push -u origin main
    ```
 =======
-# education
->>>>>>> 39eaf9804c8121da35297a65fee1d386fa640fcc
